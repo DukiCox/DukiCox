@@ -2,7 +2,7 @@
 Hola, soy DukiCox 👋🏼,<br><br>Un tipo normal que sabe un poco de codificación y tiene experiencia en el comercio de acciones. Me gusta trabajar en proyectos, salir con amigos y familiares, leer libros, emprender aventuras y trabajar en nuevas ideas.<br><br>Curioso por el mundo a una edad temprana, siempre estaba trabajando en proyectos y programas además de tener una carrera lucrativa en la intermediación bursátil. Insatisfecho con el statu quo clásico hace mucho tiempo, había dominado el comercio en diferentes mercados.<br><br>Con el objetivo de generar independencia financiera. Mientras tanto, trabajo para diversificar mis estudios  y mis habilidades.
 
 ## 🌐 Socials:
-[![Discord](https://discord.gg/BPfa3kEPaV)
+[Discord](https://discord.gg/BPfa3kEPaV)
 
 
 # 📊 Cominidades De Discord:
